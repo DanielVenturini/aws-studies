@@ -1,0 +1,5 @@
+# Compute in the Cloud
+
+When running computing resources on-premises there are a lot of problems, such as spend upfront money to purchase hardware, wait them to be delivered and the installation and configuration time to make them ready. After that, the whole life cycle of their (machine) live require a recurrence maintaining that may be expensive and may take out of the business focus. However, when thinking about EC2 instances, there are a lot of advantages, such as launching an EC2 instance within minutes, stop and finish them when they are not required anymore and the cost is pay-as-you go.
+
+When launching an EC2 instance the user configures its operation system, applications, instance type, hardware configuration and security control settings. After that, the user is able to connect to the instance using several options and then use it.
